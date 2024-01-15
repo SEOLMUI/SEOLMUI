@@ -8,7 +8,7 @@ And I'm interested in making indie games.
 <summary>
   🌊What I learned
 </summary>
-  <img src="img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <a><img src="img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![]()
 </details>
 
